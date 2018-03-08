@@ -33,31 +33,6 @@ The project should be deployed to AWS and a link for the website should be hande
 
 This assignment can be done by using the topics we covered in class. You do not have to dicover new techniques. What you know is enough. On the other hand you are also allowed to use stuff we did not cover in class if you feel like it.    
 
-## Documentation
-At your 1<sup>st</sup> year exam at the end of this semester one requirement is that you should demonstrate that there is a cohesion between your analysis and design and code in your application. So this you should practice now.    
-
-You application should be documented and this documentation should also be handed in. 
-
-* You should identify the **Actors and Use Cases** for this system and write a **Use Case Diagram**. 
-* Next you should write **Use Cases** for the system in _brief_ or _casual_ formats. 
-* You should then write a **Domain Model**
-* And end up with a **Class Diagram**
-
-At the presentation you should be able to talk about the relation between all these diagrams and the code in your project.
-
-If you need inspiration for this part of the assignment you could find information about this in you SW Design book (Larman) or you could have a look at these videos at lynda.com:    
-
-
-* [Programming Foundations: Object-Oriented Design](https://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html)
-	* Understanding use cases
-	* Identifying the actors
-	* Identifying the scenarios
-	* Creating a conceptual model
-	* Identifying the classes
-	* Identifying class relationships
-	* Class Diagram
-	* Converting class diagrams to code
-	* Exploring object lifetime
 
 
 ## Groups [Document](https://docs.google.com/spreadsheets/d/1qvbF5UqJTwcWAYVajWfGMgetcDvAQE75zLZPkQbuJQY/edit?usp=sharing)
