@@ -44,6 +44,6 @@ Today (Thusday 8 of march) you should write your names of your group members in 
 You should hand in your project on Fronter latest Wednesday 14 at 12pm and you should deploy you application to AWS. Link to this should be provided in the handin folder on Fronter.
 
 ## Presentation
-**Thursday 15 from 9:15 - 11:45** you and your group should present for the class and Claus what you did. You will all get approximately 10-15 minutes and after that we talk about what was good and what was exelent.
+**Thursday 15 from 12:30 - 15:00** you and your group should present for the class and Claus what you did. You will all get approximately 10-15 minutes and after that we talk about what was good and what was exelent.
 
 <div style="text-align:right">&copy; clbo@kea.dk 03-2018 </div>
