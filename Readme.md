@@ -1,7 +1,7 @@
 # Mandatory Assignment SWCII dat17i
 _Start date: 08-03-2018_    
 _Handin date: 14-03-2018 (12 PM)_    
-_Presentation date: 15-03-2018_
+_Presentation date: 15-03-2018 - 12:30 - 15:00_
 
 
 Your job in this madatory assignment is to create a game of _Tic, Tac, Toe_
