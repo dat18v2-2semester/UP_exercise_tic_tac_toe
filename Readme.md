@@ -45,6 +45,21 @@ You application should be documented and this documentation should also be hande
 
 At the presentation you should be able to talk about the relation between all these diagrams and the code in your project.
 
+If you need inspiration for this part of the assignment you could find information about this in you SW Design book (Larman) or you could have a look at these videos at lynda.com:    
+
+
+* [Programming Foundations: Object-Oriented Design](https://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html)
+	* Understanding use cases
+	* Identifying the actors
+	* Identifying the scenarios
+	* Creating a conceptual model
+	* Identifying the classes
+	* Identifying class relationships
+	* Class Diagram
+	* Converting class diagrams to code
+	* Exploring object lifetime
+
+
 ## Groups [Document](https://docs.google.com/spreadsheets/d/1qvbF5UqJTwcWAYVajWfGMgetcDvAQE75zLZPkQbuJQY/edit?usp=sharing)
 You should do the assignment in groups. 
 
