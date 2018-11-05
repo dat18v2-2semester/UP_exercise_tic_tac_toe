@@ -1,10 +1,16 @@
-# Mandatory Assignment SWCII dat17i
+# UP Exercise Tic Tac Toe
+<!--
 _Start date: 08-03-2018_    
 _Handin date: 14-03-2018 (12 PM)_    
 _Presentation date: 15-03-2018 - 12:30 - 15:00_
+-->
 
+> This exercise is about using Unified Process.     
+> It was previously used as a mandatory assignment, but your job is to go trough the **Inception phase** and **one iteration** of the **Elaboration phase.** So you dont have to create the whole application!
 
-Your job in this madatory assignment is to create a game of _Tic, Tac, Toe_
+## Assignment
+
+Your job is to create a game of _Tic, Tac, Toe_
 [![Tic, Tac, Toe](./img/TicTacToe.png)](https://playtictactoe.org/)    
   
 You do not have to make your game look or behave exactly like this, but you can use this as inspiration.
@@ -27,23 +33,14 @@ and it should contain:
 * View
 * controller
 * repostory using interface
+* Service layer
 * database
 
 The project should be deployed to AWS and a link for the website should be handed in.
 
 This assignment can be done by using the topics we covered in class. You do not have to dicover new techniques. What you know is enough. On the other hand you are also allowed to use stuff we did not cover in class if you feel like it.    
 
-
-
-## Groups [Document](https://docs.google.com/spreadsheets/d/1qvbF5UqJTwcWAYVajWfGMgetcDvAQE75zLZPkQbuJQY/edit?usp=sharing)
-You should do the assignment in groups. 
-
-Today (Thusday 8 of march) you should write your names of your group members in this [Document](https://docs.google.com/spreadsheets/d/1qvbF5UqJTwcWAYVajWfGMgetcDvAQE75zLZPkQbuJQY/edit?usp=sharing)
-
 ## Handin
 You should hand in your project on Fronter latest Wednesday 14 at 12pm and you should deploy you application to AWS. Link to this should be provided in the handin folder on Fronter.
-
-## Presentation
-**Thursday 15 from 12:30 - 15:00** you and your group should present for the class and Claus what you did. You will all get approximately 10-15 minutes and after that we talk about what was good and what was exelent.
 
 <div style="text-align:right">&copy; clbo@kea.dk 03-2018 </div>
