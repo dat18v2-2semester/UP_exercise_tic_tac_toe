@@ -47,6 +47,6 @@ The project should be deployed to AWS and a link for the website should be hande
 This assignment can be done by using the topics we covered in class. You do not have to dicover new techniques. What you know is enough. On the other hand you are also allowed to use stuff we did not cover in class if you feel like it.    
 
 ## Handin
-You should hand in your project on Fronter latest Wednesday 14 at 12pm and you should deploy you application to AWS. Link to this should be provided in the handin folder on Fronter.
+You should hand in your project on Fronter latest Wednesday 14th of december at 12pm and you should deploy you application to AWS. Link to this should be provided in the handin folder on Fronter. (REMEMBER YOU SHOULD NOT DO THIS!!)
 
-<div style="text-align:right">&copy; clbo@kea.dk 03-2018 </div>
+<div style="text-align:right">&copy; clbo@kea.dk 03-2018 - (ed. UP part 06-11-2018)</div>
