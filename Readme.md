@@ -6,7 +6,10 @@ _Presentation date: 15-03-2018 - 12:30 - 15:00_
 -->
 
 > This exercise is about using Unified Process.     
-> It was previously used as a mandatory assignment, but your job is to go trough the **Inception phase** and **one iteration** of the **Elaboration phase.** So you dont have to create the whole application!
+> It was previously used as a mandatory assignment, but your job is to go trough the 
+* **Inception phase** and 
+* **one iteration** of the **Elaboration phase.**    
+So you dont have to create the whole application!
 
 ## Assignment
 
