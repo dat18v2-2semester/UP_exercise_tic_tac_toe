@@ -40,6 +40,8 @@ and it should contain:
 * Service layer
 * database
 
+You should code your application using the "State Machine" principles.
+
 The project should be deployed to AWS and a link for the website should be handed in.
 
 This assignment can be done by using the topics we covered in class. You do not have to dicover new techniques. What you know is enough. On the other hand you are also allowed to use stuff we did not cover in class if you feel like it.    
